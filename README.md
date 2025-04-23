@@ -4,3 +4,5 @@
 - 💻 Languages: Python
 - 🧠 Currently learning: HTML/CSS
 - 📫 Reach me: [vbtran72@gmail.com]
+
+![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=bttran72&show_icons=true&theme=dark)
