@@ -5,4 +5,4 @@
 - 🧠 Currently learning: HTML/CSS, and Python
 - 📫 Reach me: [vbtran72@gmail.com]
 
-![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=bttran72&show_icons=true&theme=dark)
+![Bao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bttran72&show_icons=true&theme=tokyonight)
