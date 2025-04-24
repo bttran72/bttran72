@@ -28,4 +28,3 @@ I'm just getting started, and every day I'm trying to get a little better!
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bttran72.bttran72)
