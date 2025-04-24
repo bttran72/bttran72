@@ -19,12 +19,6 @@ I'm just getting started, and every day I'm trying to get a little better!
 
 ### 📈 GitHub Stats
 ![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bttran72&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bttran72&layout=compact&theme=tokyonight)](https://github.com/bttran72)
-
----
-
-### ⏳ Contribution Graph Snake 🐍 *(Optional if enabled)*
-![Snake animation](https://github.com/bttran72/bttran72/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
