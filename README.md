@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F787&width=435&lines=Hi!+I'm+Bao+Tran+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bttran72.bttran72)
+
 ## Hi there 👋
 # 👋 Hi, I'm Bao Tran!
 - 🔧 I love building small tools and learning new languages!
