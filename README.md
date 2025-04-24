@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Bao Tran!
+# 👋 Hi there, I'm Max Tran!
 Welcome to my GitHub profile 👨‍💻  
 I'm currently learning how to code with **Python** and **HTML**.  
 I'm just getting started, and every day I'm trying to get a little better!
@@ -13,7 +13,7 @@ I'm just getting started, and every day I'm trying to get a little better!
 ---
 
 ## 📈 My GitHub Stats
-![Bao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bttran72&show_icons=true&theme=tokyonight)
+![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bttran72&show_icons=true&theme=tokyonight)
 
 ---
 
